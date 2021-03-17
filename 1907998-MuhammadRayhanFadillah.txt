@@ -1,0 +1,16 @@
+/*saya Muhammad Rayhan Fadillah 
+mengerjakan Tugas Praktikum ke-2 dalam 
+mata kuliah Desain dan Pemrograman Berorientasi Objek
+untuk keberkahanNya maka
+saya tidak melakukan kecurangan seperti
+yang telah dispesifikasikan.Aamiin.*/
+
+Kesulitan : 
+ - resize gambar manual di source
+
+Hal baru & fitur yang dikerjakan :
+- koneksi database Mysql
+- cara menambahkan library
+- insert data ke database
+- read data dari database
+- menambahkan foto pada bagian info
